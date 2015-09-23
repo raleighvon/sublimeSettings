@@ -1,4 +1,12 @@
 {
+	"file_exclude_patterns":
+	[
+		"templates.js"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
