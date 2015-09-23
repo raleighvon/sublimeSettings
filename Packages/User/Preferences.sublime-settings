@@ -1,4 +1,5 @@
 {
+	"word_wrap": true,
 	"file_exclude_patterns":
 	[
 		"templates.js"
